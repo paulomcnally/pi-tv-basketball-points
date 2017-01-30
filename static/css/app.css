@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.time {
+  font-size: 150px;
+  color: #333333;
+}
+
+.team_title {
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 72px;
+}
+
+.team_points {
+  font-weight: bold;
+  font-size: 300px;
+}
+
+.team_a {
+  color: red;
+}
+
+.team_b {
+  color: blue;
+}
+
+.team_text {
+  color: white;
+}
+
+.team_a_background {
+  background-color: blue;
+}
+
+.team_b_background {
+  background-color: red;
+}
